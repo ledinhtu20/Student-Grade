@@ -1,0 +1,14 @@
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\bin\Debug\102130002_PhanThanhAn_13T1.exe.config
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\bin\Debug\102130002_PhanThanhAn_13T1.exe
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\bin\Debug\102130002_PhanThanhAn_13T1.pdb
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\bin\Debug\EntityFramework.dll
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\bin\Debug\EntityFramework.xml
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\obj\Debug\102130002_PhanThanhAn_13T1.csprojResolveAssemblyReference.cache
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\obj\Debug\_102130002_PhanThanhAn_13T1.Addform.resources
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\obj\Debug\_102130002_PhanThanhAn_13T1.Mainform.resources
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\obj\Debug\_102130002_PhanThanhAn_13T1.Properties.Resources.resources
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\obj\Debug\102130002_PhanThanhAn_13T1.csproj.GenerateResource.Cache
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\obj\Debug\102130002_PhanThanhAn_13T1.exe
+D:\Workspace\vs15\102130002_PhanThanhAn_13T1\102130002_PhanThanhAn_13T1\obj\Debug\102130002_PhanThanhAn_13T1.pdb

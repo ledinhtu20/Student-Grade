@@ -1,0 +1,14 @@
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\bin\Debug\EntityFramework.dll
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\bin\Debug\EntityFramework.xml
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\obj\Debug\102130052_Le Dinh Tu_13T1.csprojResolveAssemblyReference.cache
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\obj\Debug\102130052_Le Dinh Tu_13T1.csproj.GenerateResource.Cache
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\obj\Debug\_102130052_LeDinhTu_13T1.Addform.resources
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\obj\Debug\_102130052_LeDinhTu_13T1.Mainform.resources
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\bin\Debug\102130052_LeDinhTu_13T1.exe.config
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\bin\Debug\102130052_LeDinhTu_13T1.exe
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\bin\Debug\102130052_LeDinhTu_13T1.pdb
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\obj\Debug\_102130052_LeDinhTu_13T1.Properties.Resources.resources
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\obj\Debug\102130052_LeDinhTu_13T1.exe
+C:\Users\ledin\Desktop\102130052_Le  Dinh Tu_13T1\102130052_Le Dinh Tu_13T1\obj\Debug\102130052_LeDinhTu_13T1.pdb
